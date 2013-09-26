@@ -1,1 +1,0 @@
-Please check the documentation in the directory "doc"
