@@ -19,6 +19,7 @@ Old scripts: they ran on the systems of their time and are not maintained.
 From my Subversion repository (r39 to r74), turned into git in 2026 (5 commits), the dates kept. The commits
 that only added the release zips or updated the bundled programs are not in this copy, since those files are left out.
 The last commit before this README sets LF line endings and keeps the empty folders with a `.gitkeep`.
+The earlier commits have LF line endings too: 2 files had CRLF line endings in the originals.
 
 ## Running it
 
